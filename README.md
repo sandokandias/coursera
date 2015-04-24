@@ -1,2 +1,2 @@
 # coursera
-A repo for coursera courses
+A repo for http://coursera.org courses
